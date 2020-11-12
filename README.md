@@ -1,6 +1,6 @@
 # Artificial Intelligence: Project 1
 
-## How to run the script:
+## To run the script:
 
 ```
 $ sh run.sh -s <search algorithm: 1, 2, or 3> -f <File name: levelfile.txt>
