@@ -7,6 +7,7 @@ $ sh run.sh -s <search algorithm: 1, 2, or 3> -f <path to: levelfile.txt>
 ```
 
 ## Where:
+
 |Option|Search Algorithm|
 |:-----------|:------------------------------------------------------------|
 |`1`|Depth-first search|
